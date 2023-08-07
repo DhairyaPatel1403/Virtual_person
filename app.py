@@ -60,7 +60,7 @@ def main_func():
 
 
 
-    openai.api_key = "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"
+    openai.api_key = ""
 
     r = sr.Recognizer()
 
